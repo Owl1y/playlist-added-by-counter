@@ -1,0 +1,8 @@
+secret.py
+notebooks/
+.ipynb_checkpoints/
+client_nums.txt
+__pycache__/
+*.json
+*.txt
+untrack-this-dir/
